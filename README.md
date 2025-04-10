@@ -9,7 +9,7 @@
 
 - 🔭 I Worked on [CA-PES](https://www.curriculumassociates.com/)
 - 🔭 I Worked on [Ardonagh-Project-Son](https://www.ardonagh.com/)
-- 🔭 I Working on [Employee Management System]
+- 🔭 Working on [Employee Management System]
 
 - 🌱 I’m have Completed the  **Cloud Computing Program from great learning through online to explore Cloud Technologies.**
 
